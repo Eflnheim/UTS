@@ -1,0 +1,15 @@
+Nama  : Gustian Naufal Sadad
+NIM   : 22416255201224
+Kelas : IF22A
+
+Soal nomor 1
+  Framework adalah sekumpulan alat-alat bantu yang dapat digunakan oleh pengembang aplikasi untuk mempercepat proses pengembangan aplikasi. Contoh populer dari framework adalah Laravel untuk PHP, Django untuk Python, dan React untuk Javascript
+
+Soal nomor 2
+  1. Tema final project yang sedang kami garap adalah tentang Klinik
+  2. Anggota terdiri dari :
+      1. Damar Weldi Alzian : Menyusun laporan
+      2. Fauzziyan Rachman : Membuat database
+      3. Gustian Naufal Sadad : Membuat web
+  3. Permasalahan yang dijabarkan oleh client yaitu penginputan data pasien beserta rekam medis masih manual, sehingga kurang efisien dalam menyusun laporan, kemudian untuk mengetahui stok obat yang tersedia harus melihat secara langsung atau dari data yang ditulis secara manual. Setelah berdiskusi dengan client solusi yang kami usung yaitu pembuatan aplikasi berbasis web dimana client bisa menginput maupun melihat data melalui komputer atau handphone
+
